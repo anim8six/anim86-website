@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Anim86 — indie game developer and artist</title>
-    <link href="https://anim8six.github.io/anim86-website/feed.xml" rel="self" />
-    <link href="https://anim8six.github.io/anim86-website" />
+    <link href="https://www.anim86.com/feed.xml" rel="self" />
+    <link href="https://www.anim86.com" />
     <updated>2025-04-27T02:14:40+02:00</updated>
     <author>
         <name>Anim86 | VadimD</name>
     </author>
-    <id>https://anim8six.github.io/anim86-website</id>
+    <id>https://www.anim86.com</id>
 
     <entry>
         <title>Hello World!</title>
         <author>
             <name>Anim86 | VadimD</name>
         </author>
-        <link href="https://anim8six.github.io/anim86-website/hello-world.html"/>
-        <id>https://anim8six.github.io/anim86-website/hello-world.html</id>
-        <media:content url="https://anim8six.github.io/anim86-website/media/posts/23/Posts_Header.png" medium="image" />
+        <link href="https://www.anim86.com/hello-world.html"/>
+        <id>https://www.anim86.com/hello-world.html</id>
+        <media:content url="https://www.anim86.com/media/posts/23/Posts_Header.png" medium="image" />
             <category term="Life"/>
 
         <updated>2025-04-26T13:30:21+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anim8six.github.io/anim86-website/media/posts/23/Posts_Header.png" alt="" />
+                        <img src="https://www.anim86.com/media/posts/23/Posts_Header.png" alt="" />
                     "Hello, World!" It took me a long time to get here —&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://anim8six.github.io/anim86-website/media/posts/23/Posts_Header.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.anim86.com/media/posts/23/Posts_Header.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <strong>"Hello, World!"</strong>
@@ -54,82 +54,82 @@
         <author>
             <name>Anim86 | VadimD</name>
         </author>
-        <link href="https://anim8six.github.io/anim86-website/old-drawlloween.html"/>
-        <id>https://anim8six.github.io/anim86-website/old-drawlloween.html</id>
-        <media:content url="https://anim8six.github.io/anim86-website/media/posts/22/Posts_Header.png" medium="image" />
+        <link href="https://www.anim86.com/old-drawlloween.html"/>
+        <id>https://www.anim86.com/old-drawlloween.html</id>
+        <media:content url="https://www.anim86.com/media/posts/22/Posts_Header.png" medium="image" />
             <category term="Art"/>
 
         <updated>2025-03-10T13:12:00+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://anim8six.github.io/anim86-website/media/posts/22/Posts_Header.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.anim86.com/media/posts/22/Posts_Header.png" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/02.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/02-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/02.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/02-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/01.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/01-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/01.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/01-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/03.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/03-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/03.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/03-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/04.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/04-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/04.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/04-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/05.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/05-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/05.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/05-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/06.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/06-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/06.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/06-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/07.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/07-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/07.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/07-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/08.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/08-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/08.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/08-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/09.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/09-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/09.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/09-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/10.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/10-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/10.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/10-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/11.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/11-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/11.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/11-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/12.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/12-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/12.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/12-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/22/gallery/13.png" data-size="1600x1200">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/22/gallery/13-thumbnail.png" height="576" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/22/gallery/13.png" data-size="1600x1200">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/22/gallery/13-thumbnail.png" height="576" width="768" alt="" >
       </a>
       
     </figure>
@@ -143,92 +143,92 @@
         <author>
             <name>Anim86 | VadimD</name>
         </author>
-        <link href="https://anim8six.github.io/anim86-website/octobit-2016.html"/>
-        <id>https://anim8six.github.io/anim86-website/octobit-2016.html</id>
-        <media:content url="https://anim8six.github.io/anim86-website/media/posts/20/Posts_Header-2.png" medium="image" />
+        <link href="https://www.anim86.com/octobit-2016.html"/>
+        <id>https://www.anim86.com/octobit-2016.html</id>
+        <media:content url="https://www.anim86.com/media/posts/20/Posts_Header-2.png" medium="image" />
             <category term="Art"/>
 
         <updated>2025-03-06T16:24:00+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://anim8six.github.io/anim86-website/media/posts/20/Posts_Header-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.anim86.com/media/posts/20/Posts_Header-2.png" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/003.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/003-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/003.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/003-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/004.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/004-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/004.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/004-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/005.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/005-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/005.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/005-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/006.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/006-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/006.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/006-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/007.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/007-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/007.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/007-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/011.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/011-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/011.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/011-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/012.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/012-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/012.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/012-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/013.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/013-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/013.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/013-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/014.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/014-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/014.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/014-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/Posts_Header.png" data-size="2000x700">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/responsive/Posts_Header-xs.png" height="105" width="300" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://anim8six.github.io/anim86-website/media/posts/20/responsive/responsive/Posts_Header-xs-xs.png 300w ,https://anim8six.github.io/anim86-website/media/posts/20/responsive/responsive/Posts_Header-xs-sm.png 480w ,https://anim8six.github.io/anim86-website/media/posts/20/responsive/responsive/Posts_Header-xs-md.png 768w ,https://anim8six.github.io/anim86-website/media/posts/20/responsive/responsive/Posts_Header-xs-lg.png 1024w">
+      <a href="https://www.anim86.com/media/posts/20/Posts_Header.png" data-size="2000x700">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/responsive/Posts_Header-xs.png" height="105" width="300" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.anim86.com/media/posts/20/responsive/responsive/Posts_Header-xs-xs.png 300w ,https://www.anim86.com/media/posts/20/responsive/responsive/Posts_Header-xs-sm.png 480w ,https://www.anim86.com/media/posts/20/responsive/responsive/Posts_Header-xs-md.png 768w ,https://www.anim86.com/media/posts/20/responsive/responsive/Posts_Header-xs-lg.png 1024w">
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/015.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/015-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/015.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/015-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/016.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/016-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/016.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/016-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/019.png" data-size="1280x1280">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/019-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/019.png" data-size="1280x1280">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/019-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/day_001_big.gif" data-size="640x640">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/day_001_big.gif" height="640" width="640" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/day_001_big.gif" data-size="640x640">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/day_001_big.gif" height="640" width="640" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://anim8six.github.io/anim86-website/media/posts/20/gallery/day_002_big.gif" data-size="640x640">
-        <img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/20/gallery/day_002_big.gif" height="640" width="640" alt="" >
+      <a href="https://www.anim86.com/media/posts/20/gallery/day_002_big.gif" data-size="640x640">
+        <img loading="lazy" src="https://www.anim86.com/media/posts/20/gallery/day_002_big.gif" height="640" width="640" alt="" >
       </a>
       
     </figure>
@@ -242,32 +242,32 @@
         <author>
             <name>Anim86 | VadimD</name>
         </author>
-        <link href="https://anim8six.github.io/anim86-website/old-sketches-girls.html"/>
-        <id>https://anim8six.github.io/anim86-website/old-sketches-girls.html</id>
-        <media:content url="https://anim8six.github.io/anim86-website/media/posts/17/Posts_Header-2.png" medium="image" />
+        <link href="https://www.anim86.com/old-sketches-girls.html"/>
+        <id>https://www.anim86.com/old-sketches-girls.html</id>
+        <media:content url="https://www.anim86.com/media/posts/17/Posts_Header-2.png" medium="image" />
             <category term="Art"/>
 
         <updated>2025-03-03T18:09:00+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://anim8six.github.io/anim86-website/media/posts/17/Posts_Header-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.anim86.com/media/posts/17/Posts_Header-2.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/004.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/004-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/005.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/005-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/011.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/011-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/021.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/021-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/022.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/022-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/025.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/025-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/026.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/026-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/027.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/027-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/031.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/031-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/032.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/032-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/034.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/034-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/036.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/036-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/038.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/038-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/039.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/039-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/17/gallery/042.png" data-size="1000x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/17/gallery/042-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/004.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/004-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/005.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/005-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/011.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/011-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/021.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/021-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/022.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/022-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/025.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/025-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/026.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/026-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/027.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/027-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/031.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/031-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/032.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/032-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/034.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/034-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/036.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/036-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/038.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/038-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/039.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/039-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/17/gallery/042.png" data-size="1000x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/17/gallery/042-thumbnail.png" alt="" width="768" height="768"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -277,22 +277,22 @@
         <author>
             <name>Anim86 | VadimD</name>
         </author>
-        <link href="https://anim8six.github.io/anim86-website/game-artifact.html"/>
-        <id>https://anim8six.github.io/anim86-website/game-artifact.html</id>
-        <media:content url="https://anim8six.github.io/anim86-website/media/posts/7/Posts_Header.png" medium="image" />
+        <link href="https://www.anim86.com/game-artifact.html"/>
+        <id>https://www.anim86.com/game-artifact.html</id>
+        <media:content url="https://www.anim86.com/media/posts/7/Posts_Header.png" medium="image" />
             <category term="Games"/>
             <category term="Artifact"/>
 
         <updated>2025-03-02T17:07:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anim8six.github.io/anim86-website/media/posts/7/Posts_Header.png" alt="" />
+                        <img src="https://www.anim86.com/media/posts/7/Posts_Header.png" alt="" />
                     A game by: German (code, music, ui), Anim86 (art) Release (itch.io): January&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://anim8six.github.io/anim86-website/media/posts/7/Posts_Header.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.anim86.com/media/posts/7/Posts_Header.png" class="type:primaryImage" alt="" /></p>
                 <div class="formatted_description user_formatted">
 <p><strong>A game by:</strong><br><em><a href="https://bsky.app/profile/kamo-yasumi.bsky.social" target="_blank" rel="noopener noreferrer">German </a></em>(code, music, ui), <em>Anim86 </em>(art)<br><br><strong>Release (itch.io):</strong><br><a href="https://romgerman.itch.io/artifact" target="_blank" rel="noopener noreferrer">January 19th, 2025</a><br><br><strong>Genre:</strong><br>First person walk simulator </p>
 <dl></dl>
@@ -301,10 +301,10 @@
 <p>Orient yourself by listening to the singing stelas. Collect 5 artifacts and enter the temple to see what’s inside.</p>
 </div>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_01.png" data-size="1200x675"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_01-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_02.png" data-size="1200x675"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_02-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_03.png" data-size="1200x675"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_03-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_04.png" data-size="1200x675"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/7/gallery/artifact_screen_04-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/7/gallery/artifact_screen_01.png" data-size="1200x675"><img loading="lazy" src="https://www.anim86.com/media/posts/7/gallery/artifact_screen_01-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/7/gallery/artifact_screen_02.png" data-size="1200x675"><img loading="lazy" src="https://www.anim86.com/media/posts/7/gallery/artifact_screen_02-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/7/gallery/artifact_screen_03.png" data-size="1200x675"><img loading="lazy" src="https://www.anim86.com/media/posts/7/gallery/artifact_screen_03-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/7/gallery/artifact_screen_04.png" data-size="1200x675"><img loading="lazy" src="https://www.anim86.com/media/posts/7/gallery/artifact_screen_04-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div></div>
 <p>Play on: <a href="https://romgerman.itch.io/artifact" target="_blank" rel="noopener noreferrer">Itch.io</a></p>
             ]]>
@@ -315,52 +315,52 @@
         <author>
             <name>Anim86 | VadimD</name>
         </author>
-        <link href="https://anim8six.github.io/anim86-website/old-art-3d-architecture.html"/>
-        <id>https://anim8six.github.io/anim86-website/old-art-3d-architecture.html</id>
-        <media:content url="https://anim8six.github.io/anim86-website/media/posts/6/Posts_Header.png" medium="image" />
+        <link href="https://www.anim86.com/old-art-3d-architecture.html"/>
+        <id>https://www.anim86.com/old-art-3d-architecture.html</id>
+        <media:content url="https://www.anim86.com/media/posts/6/Posts_Header.png" medium="image" />
             <category term="Art"/>
 
         <updated>2025-01-01T14:03:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://anim8six.github.io/anim86-website/media/posts/6/Posts_Header.png" alt="" />
+                        <img src="https://www.anim86.com/media/posts/6/Posts_Header.png" alt="" />
                     A long time ago, I used to do 3D architectural modeling in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://anim8six.github.io/anim86-website/media/posts/6/Posts_Header.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.anim86.com/media/posts/6/Posts_Header.png" class="type:primaryImage" alt="" /></p>
                 <p class="" data-start="81" data-end="154">A long time ago, I used to do 3D architectural modeling in Yekaterinburg.</p>
 <p class="" data-start="156" data-end="358">It was an interesting time — no global illumination, and we had to get creative.<br data-start="236" data-end="239">3ds Max could barely handle large scenes, and each image took hours to render.<br data-start="317" data-end="320">Some of the projects were never built.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/001.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/001-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/001.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/001-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>"Guardians of the Urals", Yekaterinburg 01</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/002.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/002-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/002.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/002-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>"Guardians of the Urals", Yekaterinburg 02</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/003.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/003-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/003.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/003-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>"Guardians of the Urals", Yekaterinburg03</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/004.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/004-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/004.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/004-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>"Guardians of the Urals", Yekaterinburg 04</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/005.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/005-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/005.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/005-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>"Universitetsky", Yekaterinburg (built)</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/006.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/006-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/006.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/006-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>Cottage village 01</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/007.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/007-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/007.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/007-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>Cottage village 02</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/008.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/008-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/008.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/008-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>Cottage village 03</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/009.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/009-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/009.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/009-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>Typical apartment building</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://anim8six.github.io/anim86-website/media/posts/6/gallery/010.jpg" data-size="1500x1000"><img loading="lazy" src="https://anim8six.github.io/anim86-website/media/posts/6/gallery/010-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://www.anim86.com/media/posts/6/gallery/010.jpg" data-size="1500x1000"><img loading="lazy" src="https://www.anim86.com/media/posts/6/gallery/010-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>"Akademichesky" district, Tyumen</figcaption>
 </figure>
 </div></div>
