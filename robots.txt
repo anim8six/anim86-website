@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://anim8six.github.io/anim86-website/sitemap.xml
